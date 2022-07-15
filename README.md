@@ -1,16 +1,19 @@
 # social_media_ui
 
-A new Flutter project.
+# This is a clone project / coding along with lectures 
 
-## Getting Started
+### Login page
+![Simulator Screen Shot - iPhone 11 - 2022-07-15 at 20 31 22](https://user-images.githubusercontent.com/91663623/179236886-c6d415b3-3b89-4ee8-965c-8ee9880830a9.png)
 
-This project is a starting point for a Flutter application.
+### Profile page 
+![Simulator Screen Shot - iPhone 11 - 2022-07-15 at 20 31 32](https://user-images.githubusercontent.com/91663623/179236907-8e9d53dd-909f-4b76-8980-8441d0235cf2.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Drawer 
+![Simulator Screen Shot - iPhone 11 - 2022-07-15 at 20 31 38](https://user-images.githubusercontent.com/91663623/179236926-8d96f3bb-f0ac-4b9f-9fa2-d9fecb5bb255.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Profile page
+![Simulator Screen Shot - iPhone 11 - 2022-07-15 at 20 31 47](https://user-images.githubusercontent.com/91663623/179236933-aa7a2e36-0948-45b8-a9e4-c9f9120b7c2b.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+### Credit to Launch Club
+https://www.launchclub.io/products/flutter-ui-masterclass/
